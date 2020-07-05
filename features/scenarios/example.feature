@@ -1,12 +1,13 @@
 @example
 Feature: Example Automation
+
   Automation with golang and cucumber
 
   @example-dweb @dweb
   Scenario: Example DWEB
     Given visit dweb
 
-  @example-mweb @mweb
+  @example-mweb @mweb @MPER-7
   Scenario: Example MWEB
     Given visit mweb
 
