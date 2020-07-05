@@ -37,7 +37,7 @@ Feature: Example Automation
     When set data
     Then get data
 
-  @example-yaml
+  @example-yaml @MPER-7
   Scenario: Read Yaml
     Given yaml file
     When read file
