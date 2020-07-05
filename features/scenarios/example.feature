@@ -41,7 +41,7 @@ Feature: Example Automation
   Scenario: Read Yaml
     Given yaml file
     When read file
-    Then print content
+    Then print contents
 
   @example-mapping
   Scenario: Call Function
