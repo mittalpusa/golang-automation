@@ -7,7 +7,7 @@ Feature: Example Automation
   Scenario: Example DWEB
     Given visit dweb
 
-  @example-mweb @mweb @MPER-7
+  @example-mweb @mweb
   Scenario: Example MWEB
     Given visit mweb
 
